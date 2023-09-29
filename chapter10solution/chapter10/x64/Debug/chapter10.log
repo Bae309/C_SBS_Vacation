@@ -1,0 +1,4 @@
+﻿  chapter10.c
+C:\Users\베성윤\Documents\C언어\SBS C언어 방학특강\chapter10solution\chapter10\chapter10.c(9,5): error C2054: '​' 다음에 '('가 필요합니다.
+C:\Users\베성윤\Documents\C언어\SBS C언어 방학특강\chapter10solution\chapter10\chapter10.c(9,12): error C2085: 'main': 정식 매개 변수 목록에 없습니다.
+C:\Users\베성윤\Documents\C언어\SBS C언어 방학특강\chapter10solution\chapter10\chapter10.c(9,12): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
